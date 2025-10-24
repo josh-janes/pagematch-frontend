@@ -1,6 +1,6 @@
-# bookrecAI - Frontend
+# PageMatch - Frontend
 
-This is the official frontend for **bookrecAI**, a modern, stylish, and snappy book recommendation engine. This application is built with React, TypeScript, and styled with Tailwind CSS to provide a rich user experience.
+This is the official frontend for **PageMatch**, a modern, stylish, and snappy book recommendation engine. This application is built with React, TypeScript, and styled with Tailwind CSS to provide a rich user experience.
 
 ## Features
 
@@ -98,4 +98,5 @@ Initializing mock service...
 API CALL: getPopularBooks
 API RESPONSE: getPopularBooks [Array of book objects]
 ```
+
   
